@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'aepey'
-# copyright = '2019, Antonis Loumiotis'
-# author = 'Antonis Loumiotis'
+copyright = '2019, Antonis Loumiotis'
+author = 'Antonis Loumiotis'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
